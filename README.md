@@ -3,21 +3,14 @@
 This fork contains my R scripts and PNG files for this assigment. It consits of
 the following files (all other files are part of the original repo):
 
-[plot1.R][plot1R] - R script for plot1
-
-[plot1.png][plot1P] - PNG file for plot1
-
-[plot2.R][plot2R] - R script for plot2
-
-[plot2.png][plot2P] - PNG file for plot2
-
-[plot3.R][plot3R] - R script for plot3
-
-[plot3.png][plot3P] - PNG file for plot3
-
-[plot4.R][plot4R] - R script for plot4
-
-[plot4.png][plot4P] - PNG file for plot4
+* [plot1.R][plot1R] - R script for plot1
+* [plot1.png][plot1P] - PNG file for plot1
+* [plot2.R][plot2R] - R script for plot2
+* [plot2.png][plot2P] - PNG file for plot2
+* [plot3.R][plot3R] - R script for plot3
+* [plot3.png][plot3P] - PNG file for plot3
+* [plot4.R][plot4R] - R script for plot4
+* [plot4.png][plot4P] - PNG file for plot4
 
 The original assigment instructions are below.
 
