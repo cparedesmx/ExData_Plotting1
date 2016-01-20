@@ -1,3 +1,28 @@
+# Exploratory Data Analysis: Course Project 1
+
+This fork contains my R scripts and PNG files for this assigment. It consits of
+the following files (all other files are part of the original repo):
+
+[plot1.R][plot1R] - R script for plot1
+
+[plot1.png][plot1P] - PNG file for plot1
+
+[plot2.R][plot2R] - R script for plot2
+
+[plot2.png][plot2P] - PNG file for plot2
+
+[plot3.R][plot3R] - R script for plot3
+
+[plot3.png][plot3P] - PNG file for plot3
+
+[plot4.R][plot4R] - R script for plot4
+
+[plot4.png][plot4P] - PNG file for plot4
+
+The original assigment instructions are below.
+
+---
+
 ## Introduction
 
 This assignment uses data from
@@ -112,3 +137,13 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+[//]:# (Links used in this document)
+
+[plot1R]: <./plot1.R>
+[plot1P]: <./plot1.png>
+[plot2R]: <./plot2.R>
+[plot2P]: <./plot2.png>
+[plot3R]: <./plot3.R>
+[plot3P]: <./plot3.png>
+[plot4R]: <./plot4.R>
+[plot4P]: <./plot4.png>
